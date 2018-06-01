@@ -96,6 +96,7 @@
 				TargetAttributes = {
 					839A759F1ED7695B008A4191 = {
 						CreatedOnToolsVersion = 8.3.2;
+						DevelopmentTeam = S23XV6JBYN;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -260,6 +261,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = S23XV6JBYN;
 				INFOPLIST_FILE = "Dice Roll Tutorial/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.codewithchris.Dice-Roll-Tutorial";
@@ -272,6 +274,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = S23XV6JBYN;
 				INFOPLIST_FILE = "Dice Roll Tutorial/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.codewithchris.Dice-Roll-Tutorial";
@@ -299,6 +302,7 @@
 				839A75B41ED7695B008A4191 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
